@@ -1,3 +1,4 @@
+import { TodosComponent } from './components/todos/todos.component';
 import { Component } from '@angular/core';
 
 @Component({
